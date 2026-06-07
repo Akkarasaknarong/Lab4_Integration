@@ -1,6 +1,0 @@
-trade off 1
-._q_pos = 1,		 
-._q_vel = 1e-01,						 
-._q_load = 10,
-._q_i = 1e-01,
-._r = 1e-20};
